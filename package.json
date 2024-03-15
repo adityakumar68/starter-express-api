@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/cyclic-software/starter-express-api#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "axios": "^1.6.7",
+    "express": "^4.18.3",
+    "express-session": "^1.18.0",
+    "fastest-levenshtein": "^1.0.16",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "puppeteer": "^22.4.1",
+    "qrcode": "^1.5.3",
+    "whatsapp-web.js": "^1.23.0"
   }
 }
